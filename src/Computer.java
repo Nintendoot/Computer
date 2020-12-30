@@ -57,7 +57,8 @@ int i=0;
         System.out.println(chislo);
         System.out.println("Введите число:");
         int i = vvod.nextInt();
-if(this.i==1){System.out.println("Компьютер уже включен lohrggfgfg");}
+if(this.i==1){System.out.println("Компьютер 
+                                ");}
 else {
     if (cikl == 0) {
         System.out.println(" Превышение лимита ресурса комп сгорает");
